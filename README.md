@@ -6,18 +6,14 @@ A simple Python web-application for attendance management via facial recognition
 
 ---
 
-## 🚀 Table of Contents
+## 🚀 Files
 
-1. [Features](#features)  
-2. [Project Structure](#project-structure)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Demo / Screenshots](#demo--screenshots)  
-6. [Dependencies](#dependencies)  
-7. [How it works](#how-it-works)  
-8. [Possible Improvements](#possible-improvements)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
+- **app.py** — Main server / web app entry point.  
+- **add_student.py** — Script to register new students (collect face data).  
+- **attendance_check.py** — Runs face detection to mark attendance.  
+- **retrieve_attendance.py** — For querying attendance history.  
+- **t3.py** — (Miscellaneous script — explain what this does).  
+- **templates/** — HTML files for the user interface.
 
 ---
 
